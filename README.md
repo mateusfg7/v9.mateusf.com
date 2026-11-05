@@ -1,3 +1,12 @@
+> [!WARNING]  
+> This repository holds an old, archived version of my website ([v9.mateusf.com](https://v9.mateusf.com)), and it is no longer maintained.  
+> Check out the current version at **[mateusf.com](https://mateusf.com)**.
+
+<br />
+<br />
+<br />
+<br />
+
 <div align="center">
 
 # 👨‍💻 Mateus' Hideout
